@@ -23,7 +23,7 @@ Tailwind CSS - Styling & Layout
 
 Lucide React - High-fidelity Iconography
 
-Gemini 2.5 Flash API - Large Language Model integration
+Gemini 2.5 Flash API - Large Language Model integration.
 
 Vercel - Global Edge Deployment
 
