@@ -21,7 +21,7 @@ React.js - Frontend Framework
 
 Tailwind CSS - Styling & Layout
 
-Lucide React - High-fidelity Iconography
+Lucide React - High-fidelity Iconography.
 
 Gemini 2.5 Flash API - Large Language Model integration.
 
