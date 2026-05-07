@@ -19,7 +19,7 @@ RPS.ULTIMATE isn't just a game of Rock Paper Scissors; it’s a psychological ba
 🛠️ Built With
 React.js - Frontend Framework
 
-Tailwind CSS - Styling & Layout
+Tailwind CSS - Styling & Layout.
 
 Lucide React - High-fidelity Iconography.
 
