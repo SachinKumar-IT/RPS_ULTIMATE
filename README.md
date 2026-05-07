@@ -17,7 +17,7 @@ RPS.ULTIMATE isn't just a game of Rock Paper Scissors; it’s a psychological ba
 📱 Mobile Responsive: Play on any device with smooth animations and haptic-ready buttons.
 
 🛠️ Built With
-React.js - Frontend Framework
+React.js - Frontend Framework.
 
 Tailwind CSS - Styling & Layout.
 
