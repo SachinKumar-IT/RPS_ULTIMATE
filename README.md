@@ -25,7 +25,7 @@ Lucide React - High-fidelity Iconography.
 
 Gemini 2.5 Flash API - Large Language Model integration.
 
-Vercel - Global Edge Deployment
+Vercel - Global Edge Deployment.
 
 
 # React + Vite
