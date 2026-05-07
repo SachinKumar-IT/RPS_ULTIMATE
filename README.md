@@ -5,7 +5,7 @@ https://rps-ultimate-fk2dmboff-sachinkumar-its-projects.vercel.app/
 
 RPS.ULTIMATE isn't just a game of Rock Paper Scissors; it’s a psychological battle against a neural adversary.This web application analyzes your playstyle in real-time, predicts your next move, and isn't afraid to let you know when you're being predictable.
 
-✨ Features
+## ✨ Features
 ⚡ Real-Time AI Strategist: An integrated Gemini 2.5 Flash engine that analyzes your "Win-Stay, Lose-Shift" patterns to forecast your next move.
 
 🔥 Dynamic Trash Talk: A personality-driven AI opponent that reacts to every win, loss, and tie with context-aware remarks.
